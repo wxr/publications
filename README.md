@@ -29,3 +29,19 @@
 **Web:** https://www.nature.com/articles/srep09767
 
 **PDF:** https://www.nature.com/articles/srep09767.pdf
+
+## Paper 3
+
+**Journal:** Palgrave Communications
+
+**Title:** Allometric scaling, size distribution and pattern formation of natural cities
+
+**Authors:** Xintong Li, Xinran Wang, Jiang Zhang & Lingfei Wu
+
+**Year:** 2015
+
+**DOI:** 10.1057/palcomms.2015.17
+
+**Web:** https://www.nature.com/articles/palcomms201517
+
+**PDF:** https://www.nature.com/articles/palcomms201517.pdf
